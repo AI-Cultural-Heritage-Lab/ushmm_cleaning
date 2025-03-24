@@ -6,7 +6,7 @@ This repository manages the scripts and data organization used in the USHMM PDF 
 
 ## 📁 Repository Structure
 
-- `Completed__Scripts/` – Finalized scripts for inspection and cleaning.  
+- `Completed_Scripts/` – Finalized scripts for inspection and cleaning.  
 - `HTML_files/` – Original HTML documents to be cleaned.  
 - `HTML_txtfolder/` – Extracted text versions of HTML files.  
 - `Aileen_JSON_files/` – Processed JSON files by Aileen 
