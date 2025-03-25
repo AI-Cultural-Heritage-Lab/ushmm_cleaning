@@ -1,0 +1,13 @@
+Install Ollama: Ensure Ollama is installed on your machine and running locally (default URL: http://localhost:11434). Download the DeepSeek model by running:
+bash
+ollama pull deepseek-coder
+
+(Assuming "deepseek" refers to a model like deepseek-coder; adjust the model name based on the specific DeepSeek variant you intend to use.)
+Install the Ollama Python Library: Install the ollama package via pip:
+bash
+pip install ollama
+
+Verify Ollama is Running: Start the Ollama server before executing your script:
+bash
+ollama run deepseek-coder
+Alternatively, ensure the server is running in the background.
